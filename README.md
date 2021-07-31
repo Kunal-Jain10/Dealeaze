@@ -1,1 +1,10 @@
+![login](https://user-images.githubusercontent.com/64531414/127738506-6b8730cc-0856-4337-8e78-94fb91191a64.png)
+![sign up](https://user-images.githubusercontent.com/64531414/127738514-a00eacbe-2506-4cee-9174-6744e2187fe4.png)
+![buy](https://user-images.githubusercontent.com/64531414/127738516-a9a5156a-8e91-4c99-8e74-1bc774ae7931.png)
+![navigation drawer](https://user-images.githubusercontent.com/64531414/127738517-39b77ec2-8973-4619-819f-6b2bc6ae8709.png)
+![sell](https://user-images.githubusercontent.com/64531414/127738523-93a9384b-01ac-49f2-8bf7-64640a05cbc4.png)
+![menu](https://user-images.githubusercontent.com/64531414/127738524-67ab3012-39e1-49f0-abff-108e14ce87ba.png)
+![settings](https://user-images.githubusercontent.com/64531414/127738531-625a2a7e-daf9-4d15-a7f3-bb5a43167a79.png)
+![About](https://user-images.githubusercontent.com/64531414/127738535-64647ea4-8ef9-4f1a-8ab7-d7b679f0f866.png)
+![Contact us](https://user-images.githubusercontent.com/64531414/127738538-084ba0b0-0c24-4267-855c-cf2300fce1e5.png)
 
