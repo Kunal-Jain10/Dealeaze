@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_buy">
+
+    <fragment
+        android:id="@+id/nav_buy"
+        android:name="com.example.dealeaze.BuyFragment"
+        android:label="Buy"
+        tools:layout="@layout/fragment_buy" />
+
+    <fragment
+        android:id="@+id/nav_sell"
+        android:name="com.example.dealeaze.SellFragment"
+        android:label="Sell"
+        tools:layout="@layout/fragment_sell" />
+
+</navigation>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234205313990",
+    "firebase_url": "https://dealeaze-520ca.firebaseio.com",
+    "project_id": "dealeaze-520ca",
+    "storage_bucket": "dealeaze-520ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234205313990:android:af96ae6abfba734a9990c7",
+        "android_client_info": {
+          "package_name": "com.example.dealeaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234205313990-lqkjo8o3gqvt4gq5rt3o30atsibphja8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC205yoUBA5F5qumjipOUWxWVyIZRJ70bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234205313990-lqkjo8o3gqvt4gq5rt3o30atsibphja8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

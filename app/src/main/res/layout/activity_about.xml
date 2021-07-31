@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT"
+        android:textSize="30dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="35dp"
+        android:textStyle="bold"
+        android:textColor="#0A2B42"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:text="This app provides a C2C android platform for buying and selling of used things and also create a medium to connect through other people"
+        android:textSize="20dp"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/text"
+        ></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How to sell?"
+            android:textSize="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="13dp"
+            android:textStyle="bold"
+            android:textColor="#0A2B42"
+            ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:text="A customer can Click on the sell option and can list the product to be sold along with contact description and an image."
+        android:textSize="20dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/text"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to Buy?"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="13dp"
+        android:textStyle="bold"
+        android:textColor="#0A2B42"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:text="A customer can Click on the buy option and check for a desired product and then appropriately contact the seller with ease. "
+        android:textSize="20dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/text"
+        ></TextView>
+
+</LinearLayout>

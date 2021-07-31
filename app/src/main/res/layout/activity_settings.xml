@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:id="@+id/app_Experience"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Experience"
+        android:textColor="#0A2B42"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="15dp"/>
+
+    <RatingBar
+        android:id="@+id/experienceRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:progressTint="#0A2B42" />
+
+    <TextView
+        android:id="@+id/app_Connectivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Connectivity"
+        android:textColor="#0A2B42"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="15dp"/>
+
+    <RatingBar
+        android:id="@+id/connectivityRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:progressTint="#0A2B42" />
+
+    <TextView
+        android:id="@+id/app_Feedback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:textColor="#0A2B42"
+        android:text="Feedback:" />
+
+    <EditText
+        android:id="@+id/editTextFeedback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="@color/text"
+        android:layout_marginTop="10dp"
+        android:gravity="start|top"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textColor="#0A2B42"
+        android:textSize="18dp"
+        android:text="Submit" />
+
+</LinearLayout>
